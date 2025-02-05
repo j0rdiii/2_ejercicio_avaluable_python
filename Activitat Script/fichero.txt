@@ -1,0 +1,8 @@
+Este es un archivo de texto de ejemplo para probar el script de análisis.
+El propósito de este archivo es contener varias palabras repetidas para comprobar la frecuencia de las mismas.
+Por ejemplo, la palabra "Python" aparece varias veces en este archivo.
+Python es un lenguaje de programación muy popular. Muchas personas aprenden Python porque es fácil de usar.
+Además, Python es utilizado en ciencia de datos, desarrollo web, automatización y muchas otras áreas.
+Este archivo contiene algunas líneas de texto para verificar que el análisis cuente correctamente el número de palabras y líneas.
+Esperamos que este texto sea útil para probar el script de análisis de texto.
+Fin del archivo de prueba.
